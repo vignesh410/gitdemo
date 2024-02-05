@@ -1,0 +1,3 @@
+Git 
+1.first create new repository
+2.create new file
